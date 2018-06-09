@@ -6,7 +6,7 @@ struct user
   //存储用户登陆密码
   char PassWord[30];
   //存储用户昵称
-  char Gender[10];
+  char UserName[20];
   //存储用户性别
   char Gender[10];
   //存储用户籍贯
